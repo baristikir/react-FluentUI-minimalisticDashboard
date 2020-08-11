@@ -1,5 +1,7 @@
 Landing Page: https://notionhub.ck.page/d98d815c5b
 
+![dashboard-preview](./preview.png)
+
 ## Available Scripts
 
 In the project directory, you can run:
