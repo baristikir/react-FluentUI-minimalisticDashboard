@@ -50,6 +50,7 @@ const links = [
     },
   ];
 
+// Styling for Navigation bar
 const navigationStyles = {
   root: {
     height: '100vh',
