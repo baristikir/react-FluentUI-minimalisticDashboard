@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Landing Page: https://notionhub.ck.page/d98d815c5b
 
 ## Available Scripts
 
